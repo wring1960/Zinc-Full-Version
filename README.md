@@ -236,4 +236,4 @@ This repository serves as the official landing page for ZiNc. The software is di
 **Get the most recent version of ZiNc today!**
 
 ---
-**Last updated:** 2026-09-13 22:58:45 UTC
+**Last updated:** 2026-09-14 00:56:17 UTC
